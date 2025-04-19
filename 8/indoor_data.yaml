@@ -1,0 +1,14 @@
+names:
+- door
+- openedDoor
+- cabinetDoor
+- refrigeratorDoor
+- window
+- chair
+- table
+- cabinet
+- couch
+- pole
+nc: 10
+train: ./train/images
+val: ./test/images
